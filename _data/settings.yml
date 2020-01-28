@@ -1,16 +1,16 @@
 basic_settings:
-  site_title: Board
+  site_title: Oksana Hontar - an artist and a survivor
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 200
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Art'
       url: '/'
-    - title: 'Blog'
+    - title: 'Writing'
       url: '/blog/'
     - title: 'About'
       url: '/about'
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
+  footer_tagline:
 
 grid_settings:
   overlay_opacity: 0.8
