@@ -1,5 +1,5 @@
 ---
-title: 'Catholic Church in Logansport'
+title: 'Catholic Church'
 subtitle: 'pen'
 date: 2018-06-30 00:00:00
 description:

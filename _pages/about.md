@@ -1,11 +1,13 @@
 ---
-title: 
+title:
 subtitle:
 description:
 featured_image: /images/self.jpg
 ---
 
 ![](/images/self.JPG)
+
+Coming soon...
 
 <!--
 ## Features
